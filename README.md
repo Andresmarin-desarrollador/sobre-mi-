@@ -14,7 +14,7 @@ Estudiante de Diseño Web en el SENA, apasionado por la programación y el arte.
 - Remasterizar juegos retro y convertirlos en un libro ilustrado propio.
 
 ## 📂 Proyectos
-- [Página con la API de Rick and Morty](enlace-a-tu-repo)
+- ...
   
 
 ## 📫 Contacto
