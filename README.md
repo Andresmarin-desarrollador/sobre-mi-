@@ -14,7 +14,10 @@ Estudiante de Diseño Web en el SENA, apasionado por la programación y el arte.
 - Remasterizar juegos retro y convertirlos en un libro ilustrado propio.
 
 ## 📂 Proyectos
-- ...
+- [Cine: guía de vida](https://github.com/Andresmarin-desarrollador/mis-proyectos/tree/main/cine-guiadevida)
+- [Concierto Ultratumba](https://github.com/Andresmarin-desarrollador/mis-proyectos/tree/main/concierto-ultratumba)
+- [Login VitalMoto](https://github.com/Andresmarin-desarrollador/mis-proyectos/tree/main/login-vitalmoto)
+- [Página con API de Rick and Morty](https://github.com/Andresmarin-desarrollador/mis-proyectos/tree/main/pag-api-rickandmorty)
   
 
 ## 📫 Contacto
