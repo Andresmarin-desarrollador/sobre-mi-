@@ -2,6 +2,13 @@
 
 Estudiante de Diseño Web en el SENA, apasionado por la programación y el arte.
 
+## 🎮 Mis hobbies
+
+- 🎨 Dibujar
+- ✍️ Escribir
+- 🎞️ Ver peliculas apocalipticas 
+- 🏋️‍♀️ Hacer barras
+
 ## 🛠️ Lenguajes con dominio base
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
